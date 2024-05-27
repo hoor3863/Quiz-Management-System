@@ -1,0 +1,2 @@
+A console-based quiz management system developed in Java as a second-semester university project, focusing on core Object-Oriented Programming concepts. The system includes classes, interfaces, functions, conditional statements, loops, exceptions, and file handling. Key features include quiz creation with timers and due dates, editing quizzes, tracking student attempts, viewing feedback, and managing user roles for students and teachers.
+
